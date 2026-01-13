@@ -36,7 +36,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:wafulajoseph2024@gmail.com">wafulajoseph2024@gmail.com</a></p>
-    <p>Phone: +254 XXX XXX XXX</p>
+    <p>Phone: +254742919830</p>
   </section>
 
 </body>
